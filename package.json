@@ -1,0 +1,20 @@
+{
+  "name": "bfh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandra Varghese",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "rater-js": "^1.0.1",
+    "stars-rating": "^1.1.0",
+    "sweetalert": "^2.1.2"
+  }
+}
